@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-23T01:01:55 EDT" name="Default suite" finished-at="2024-04-23T01:02:13 EDT" duration-ms="18265">
+    <groups>
+    </groups>
+    <test started-at="2024-04-23T01:01:55 EDT" name="Default test" finished-at="2024-04-23T01:02:13 EDT" duration-ms="18265">
+      <class name="eCommerce.MobileBrowserTest">
+        <test-method is-config="true" signature="ConfigAppium()[pri:0, instance:eCommerce.MobileBrowserTest@3c3d9b6b]" started-at="2024-04-23T01:01:55 EDT" name="ConfigAppium" finished-at="2024-04-23T01:02:09 EDT" duration-ms="14084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAppium -->
+        <test-method signature="openbrowser()[pri:0, instance:eCommerce.MobileBrowserTest@3c3d9b6b]" started-at="2024-04-23T01:02:09 EDT" name="openbrowser" finished-at="2024-04-23T01:02:13 EDT" duration-ms="4095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:eCommerce.MobileBrowserTest@3c3d9b6b]" started-at="2024-04-23T01:02:13 EDT" name="tearDown" finished-at="2024-04-23T01:02:13 EDT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- eCommerce.MobileBrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
